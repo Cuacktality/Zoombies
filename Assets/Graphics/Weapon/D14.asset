@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1ff7c761ec47ce438b8c2d314ece960, type: 3}
+  m_Name: D14
+  m_EditorClassIdentifier: 
+  maxMag: 12
+  maxBullets: 72
+  ammo: 6
+  bullets: 58
+  projectile: {fileID: 1145416396749839327, guid: 5ab372ecbafe4594fafd440074dbead2, type: 3}
+  projSp: 100
+  range: 105
+  damage: 11
+  fireRate: 0.27
+  tReload: 0.97
+  spread: 0.039
+  mesh: {fileID: 690437909858325920, guid: f9a5cbbd0350dab4d9bd75b1fd2b615e, type: 3}
